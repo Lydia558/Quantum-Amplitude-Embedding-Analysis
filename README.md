@@ -6,6 +6,10 @@
 
 ---
 
+## Requirements
+- download requirements.txt
+- pip install -e requirements.txt
+
 ## Overview
 
 This project investigates how **Quantum Embedding Layers (QEM)** can be integrated with a **pretrained CNN backbone**  
